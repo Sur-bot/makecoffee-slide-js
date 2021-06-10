@@ -1,15 +1,19 @@
+body {
+    background-image: url("https://capherangxay.vn/wp-content/uploads/2019/08/image001-2.jpg");
+    background-size: 100%;
+}
 .center {
-    margin-right: 50%;
-    margin-left: 31%; 
+    margin-right: 160%;
+    margin-left: 1%; 
     margin-bottom: 100px;
-    margin-top: 100px;
+    margin-top: 20px;
     width: 30%;
     border: 3px solid #73AD21;
     text-align: center;
-    padding-top: 8px;
-    padding-right: 60px;
-    padding-bottom: 8px;
-    padding-left: 60px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
     color: brown;
     background-color: rgba(255,255,255, 0.7);
 }
@@ -47,8 +51,3 @@ p {
     margin-left: 90px;
     font-family: Tahoma, Verdana, sans-serif;
   }
-  body {
-    background-image: url("https://www.posapp.vn/wp-content/uploads/2017/09/coffee.jpg");
-    background-size: cover;
-}
-

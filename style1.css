@@ -1,15 +1,19 @@
-.center {
+body {
+    background-image: url("https://congdungcaphe.com/kcfinder/upload/images/cach-pha-cafe-phin-dam-dac-thom-ngon.jpg");
+    background-size: 100%;
+  }
+  .center {
     margin-right: 50%;
-    margin-left: 31%; 
+    margin-left: 2%; 
     margin-bottom: 100px;
-    margin-top: 100px;
+    margin-top: 40px;
     width: 30%;
     border: 3px solid #73AD21;
     text-align: center;
-    padding-top: 8px;
-    padding-right: 60px;
-    padding-bottom: 8px;
-    padding-left: 60px;
+    padding-top: 10px;
+    padding-right: 70px;
+    padding-bottom: 30px;
+    padding-left: 70px;
     color: brown;
     background-color: rgba(255,255,255, 0.7);
 }
@@ -47,8 +51,3 @@ p {
     margin-left: 90px;
     font-family: Tahoma, Verdana, sans-serif;
   }
-  body {
-    background-image: url("https://www.posapp.vn/wp-content/uploads/2017/09/coffee.jpg");
-    background-size: cover;
-}
-
